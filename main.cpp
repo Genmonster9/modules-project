@@ -50,7 +50,7 @@ string getString()
 {
    string usrStr;
    const int MIN_LENGTH = 4,
-      MAX_LENGTH = 500;
+      MAX_LENGTH = 600;
 
    do
    {
